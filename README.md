@@ -37,8 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-sweilem&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sweilem&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-sweilem&show_icons=true" />
 </p>
 
 ---
