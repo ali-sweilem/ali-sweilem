@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-sweilem&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ali-sweilem&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ali-sweilem&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ali-sweilem&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
